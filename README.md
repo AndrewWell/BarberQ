@@ -6,4 +6,4 @@ The distribution of their arrival intervals is 60 ± 20 min. The barber serves c
 The working day of the hairdresser is 8 hours. The schedule of the hairdresser's work and the time of work, together with the range of execution, can be changed.
 ===========
 Wrote the program: AndrewWell
-http://mathhelpplanet.com/static.php?p=sistema-massovogo-obsluzhivaniya
+http://mathhelpplanet.com/static.php?p=smo-s-otkazami
